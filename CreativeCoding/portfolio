@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>
+      CREATIVE CODING
+    </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <h1> Welcome to Aalia Harris' Portfolio</h1>
+    <p>I'm a Senior majoring in Digital Technology and Emerging Medias at Fordham University. I enjoying coding to an extent and have knowlege of html, css, and very basic c++. I hope to learn more about coding this semester in a more creative and interesting manner.</p>
+    <img id="cat" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffloppapedia-revamped.fandom.com%2Fwiki%2FBanana_Cat&psig=AOvVaw3d2Z8r73ywRPwUc7fNvs7n&ust=1737589229447000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKCQkLn-h4sDFQAAAAAdAAAAABAE" alt="cat in a banana suit crying">
+
+    </body>
+
+</html>
